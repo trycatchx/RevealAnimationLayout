@@ -19,7 +19,6 @@
 ##### 3、代码使用（非常简洁好用）：
 - 在你需要做动画的布局上，套上```RevealAnimationLayout``` 就可以了，**支持套任何布局！！！**
 
-
 ```
     <com.clipanimation.RevealAnimationLayout
         android:id="@+id/animat_layout"
@@ -34,6 +33,9 @@
             android:scaleType="centerCrop"
             android:src="@mipmap/test"/>
     </com.clipanimation.RevealAnimationLayout>
+
+ // java 代码中，调用
+mClipAnimationLayout.startAnimal(RevealAnimationLayout.AnimaType.Circle);
 ```
 
 

@@ -11,7 +11,7 @@
 
 
 
-# Usage：
+# Usage
 - 在你需要做动画的布局上，套上```RevealAnimationLayout``` 就可以了，**支持套任何布局！！！**
 
 ```

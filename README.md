@@ -44,7 +44,7 @@ mClipAnimationLayout.startAnimal(RevealAnimationLayout.AnimaType.Circle);
 鸣谢：gcssloop 作者给了我灵感。
 
 
-# License
+## License
 
 ```
 Copyright (C) 2015 Thomas Bruyelle

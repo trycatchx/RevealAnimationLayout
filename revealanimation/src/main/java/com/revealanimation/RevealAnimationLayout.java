@@ -67,6 +67,8 @@ public class RevealAnimationLayout extends FrameLayout {
         setWillNotDraw(false);
 
         initAnimator();
+
+        setLayerType(LAYER_TYPE_HARDWARE, mPaint);
     }
 
     /**
@@ -159,7 +161,8 @@ public class RevealAnimationLayout extends FrameLayout {
 
     @Override
     public void draw(Canvas canvas) {
-        canvas.saveLayer(mLayer, null, Canvas.ALL_SAVE_FLAG);
+        canvas.save();
+//        canvas.saveLayer(mLayer, null, Canvas.ALL_SAVE_FLAG);
         super.draw(canvas);
         onClipDraw(canvas);
         canvas.restore();

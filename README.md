@@ -7,7 +7,7 @@
 
 
 ## Design sketch
-![效果图](https://upload-images.jianshu.io/upload_images/2788235-6f59dfb29fc8aeb3.gif?imageMogr2/auto-orient/strip)
+![效果图](https://upload-images.jianshu.io/upload_images/2788235-0b6901cb3c5c1058.gif?imageMogr2/auto-orient/strip)
 
 
 

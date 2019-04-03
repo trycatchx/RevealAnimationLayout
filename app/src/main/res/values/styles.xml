@@ -6,6 +6,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:ignore="NewApi">true</item>
+        <item name="android:statusBarColor" tools:ignore="NewApi">#FF404660</item>
+        <item name="android:navigationBarColor" tools:ignore="NewApi">#00000000</item>
+        <item name="android:windowTranslucentNavigation">true</item>
     </style>
 
 

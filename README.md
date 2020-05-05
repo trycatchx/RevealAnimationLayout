@@ -1,7 +1,7 @@
 
 
 # RevealAnimationLayout
-[![Build Status](https://api.travis-ci.org/tbruyelle/RxPermissions.svg?branch=master)](https://travis-ci.org/tbruyelle/RxPermissions)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 本动画揭露库，已经兼容 android9.0 版本，提供 6 种类的揭露动画，如需更多效果，可自行拓展。
 
